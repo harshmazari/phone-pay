@@ -38,3 +38,7 @@ A comprehensive data engineering and visualization project designed to analyze c
 1. Transform raw, unorganized internet datasets into clean, actionable relational metrics.
 2. Evaluate system load distribution to spot peak transaction hours and weekday vs. weekend shifts.
 3. Deliver a production-ready analytical tool that mimics corporate-grade payment oversight structures.
+
+## Screenshots / Demos
+Show that what the dashboards looks like, - ![Alt text](https://github.com/username/repo/assets/image.png).
+Example: ![Dashboard Preview](https://github.com/harshmazari/phone-pay/blob/main/Snapshot%20of%20Phone%20Pay%20Dashboard.png)
